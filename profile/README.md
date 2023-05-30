@@ -4,9 +4,9 @@ GitHub account for the CRSU (Complex Reviews Support Unit) Evidence Synthesis Ap
 
 * [MetaInsight](https://github.com/CRSU-Apps/MetaInsight) - an interactive web-based tool for analyzing, interrogating, and visualizing network meta-analyses using R-shiny
 
-* [MetaDTA](https://github.com/CRSU-Apps/MetaInsight) - an interactive web-based tool for analyzing, interrogating, and visualizing diagnostic test accuracy meta-analyses using R-shiny
+* [MetaDTA](https://github.com/CRSU-Apps/MetaDTA) - an interactive web-based tool for analyzing, interrogating, and visualizing diagnostic test accuracy meta-analyses using R-shiny
 
-* [MetaBayesDTA](https://github.com/CRSU-Apps/MetaInsight) - an extended, Bayesian version of MetaDTA
+* [MetaBayesDTA](https://github.com/CRSU-Apps/MetaBayesDTA) - an extended, Bayesian version of MetaDTA
 
 * [MetaInsightCOVID](https://github.com/CRSU-Apps/MetaInsightCOVID) - Network Meta-Analysis of Pharmacological treatments for COVID 19
 
