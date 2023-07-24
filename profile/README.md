@@ -8,6 +8,8 @@ GitHub account for the CRSU (Complex Reviews Support Unit) Evidence Synthesis Ap
 
 * [MetaBayesDTA](https://github.com/CRSU-Apps/MetaBayesDTA) - an extended, Bayesian version of MetaDTA
 
+* [MetaImpact](https://github.com/CRSU-Apps/MetaImpact) - an online tool (beta) for designing a future study such that it has an impact on the current evidence base.
+
 * [MetaInsightCOVID](https://github.com/CRSU-Apps/MetaInsightCOVID) - Network Meta-Analysis of Pharmacological treatments for COVID 19
 
 <p float="left">
