@@ -20,7 +20,7 @@ GitHub account for the CRSU (Complex Reviews Synthesis Unit) Evidence Synthesis 
 
 ---
 
-The development of these apps are currently funded (majority) and overseen by the Evidence Synthesis Group @ CRSU (NIHR153934). Further details of other funders and support, current and past, can be found [here](https://github.com/CRSU-Apps/.github/blob/main/DetailedFundingStatement.pdf).
+The development of these apps are currently funded (majority) and overseen by the Evidence Synthesis Group @ CRSU (NIHR153934). The CRSU Evidence Synthesis Group is one of the groups funded by the National Institute for Health and Care Research [(NIHR) Evidence Synthesis Programme](https://www.nihr.ac.uk/explore-nihr/funding-programmes/evidence-synthesis.htm). Further details of other funders and support, current and past, can be found [here](https://github.com/CRSU-Apps/.github/wiki/Detailed-Funding-Statement).
 The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
 
 ![funded-by-nihr-logo](https://github.com/CRSU-Apps/.github/blob/main/funded-by-nihr-logo.png)
