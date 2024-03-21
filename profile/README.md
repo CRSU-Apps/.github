@@ -2,15 +2,18 @@
 
 GitHub account for the CRSU (Complex Reviews Synthesis Unit) Evidence Synthesis Apps
 
-* [MetaInsight](https://github.com/CRSU-Apps/MetaInsight) - an interactive web-based tool for analyzing, interrogating, and visualizing network meta-analyses using R-shiny
-
-* [MetaDTA](https://github.com/CRSU-Apps/MetaDTA) - an interactive web-based tool for analyzing, interrogating, and visualizing diagnostic test accuracy meta-analyses using R-shiny
-
-* [MetaBayesDTA](https://github.com/CRSU-Apps/MetaBayesDTA) - an extended, Bayesian version of MetaDTA
-
-* [MetaImpact](https://github.com/CRSU-Apps/MetaImpact) - an online tool (beta) for designing a future study such that it has an impact on the current evidence base.
-
-* [MetaInsightCOVID](https://github.com/CRSU-Apps/MetaInsightCOVID) - Network Meta-Analysis of Pharmacological treatments for COVID 19
+- [MetaInsight](https://github.com/CRSU-Apps/MetaInsight)
+  - An interactive web-based tool for analyzing, interrogating, and visualizing network meta-analyses using R-shiny.
+- [MetaDTA](https://github.com/CRSU-Apps/MetaDTA)
+  - An interactive web-based tool for analyzing, interrogating, and visualizing diagnostic test accuracy meta-analyses using R-shiny.
+- [MetaBayesDTA](https://github.com/CRSU-Apps/MetaBayesDTA)
+  - An extended, Bayesian version of MetaDTA.
+- [MetaImpact](https://github.com/CRSU-Apps/MetaImpact)
+  - An online tool (beta) for designing a future study such that it has an impact on the current evidence base.
+- [MetaPairwise](https://github.com/CRSU-Apps/MetaPairwise)
+  - An interactive web-based tool for analyzing, interrogating, and visualizing pairwise meta-analyses using R-shiny.
+- [MetaInsightCOVID](https://github.com/CRSU-Apps/MetaInsightCOVID)
+  - Network Meta-Analysis of Pharmacological treatments for COVID 19.
 
 <p float="left">
   <img src="https://github.com/CRSU-Apps/.github/blob/main/UoG_colour.png" width="45%" />
